@@ -11,10 +11,13 @@ The $R^2$ is 0.79 for the simple RNN model and 0.81 for the LSTM, indicating a s
 Loss functions converge relatively quickly under both models (Figures 2b and 2c).
  
 **Figure 1: Hourly forecasts of wholesale day-ahead electricity price data: simple RNN vs LSTM** 
+
 ![forecasts](assets/pred_vs_actual.png)
 
 **Figure 2a: Loss functions under a simple RNN model** 
+
 ![RNN tvl](assets/RNN_train_vs_loss.png)
 
 **Figure 2b: Loss functions under a LSTM model** 
+
 ![LSTM tvl](assets/LSTM_train_vs_loss.png)
