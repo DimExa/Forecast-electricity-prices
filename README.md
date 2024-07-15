@@ -1,4 +1,4 @@
-# Forecasting electrecity prices
+# Forecasting electricity prices
 ## Description
 * The file contains forecasts for electricity prices under a simple Recurrent Neural Network (RNN) model and a Long short-term memory (LSTM) network.
 *  **Data:** For the purpose of the project, hourly data on wholesale day-ahead electricity price in Greece (EUR/MWhe) for the period 1 Jan 2015 – 31 Dec 2023, sourced by [Ember](https://ember-climate.org/data-catalogue/european-wholesale-electricity-price-data/).
